@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Apr 2025 11:40:50 +0300</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>نبذه عنا</title>
+      <link>https://example.org/about/about/</link>
+      <pubDate>Sun, 13 Apr 2025 11:40:50 +0300</pubDate>
+      <guid>https://example.org/about/about/</guid>
+      <description>&lt;h1 id=&#34;نبذة-عن-الجمعية&#34;&gt;نبذة عن الجمعية&lt;/h1&gt;&#xA;&lt;p&gt;الجمعية الخيرية بمحافظة شقراء&#xA;هي جمعية مرخصة من المركز الوطني لتنمية القطاع الغير ربحي برقم 125&#xA;وهي جمعية خيرية تسعى لتحقيق التكافل الاجتماعي من خلال تقديم المساعدات النقدية والعينية للمستفيدين&lt;/p&gt;&#xA;&lt;h1 id=&#34;الرؤية-والرسالة&#34;&gt;الرؤية والرسالة&lt;/h1&gt;&#xA;&lt;h2 id=&#34;الرؤية&#34;&gt;الرؤية&lt;/h2&gt;&#xA;&lt;p&gt;محافظة بلا محتاجين&lt;/p&gt;&#xA;&lt;h2 id=&#34;الرسالة&#34;&gt;الرسالة&lt;/h2&gt;&#xA;&lt;p&gt;جمعية خيرية تسعى لتحقيق التكافل الاجتماعي من خلال تقديم المساعدات النقدية والعينية للمستفيدين ، واقامة برامج تخدم المجتمع وتسهم في إيجاد بيئة محفزة للتعلم والعمل والتوظيف الامثل للتقنية والشراكة المحلية&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
